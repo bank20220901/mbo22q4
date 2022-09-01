@@ -7,8 +7,8 @@
         "name": "Starlin",
         "cc_balance": "23.13",
         "due_date": "6/27/2022",
-        "credit_card": 2398,
-        "mortgage": "yes"
+        "credit_card": 1111,
+        "mortgage": 2222
       },
       {
         "id": 2,
@@ -26,7 +26,7 @@
         "name": "Julianna",
         "cc_balance": "81.81",
         "due_date": "7/16/2022",
-        "mortgage": "yes",
+        "mortgage": 3333,
         "currency": "$"
       },
       {
@@ -36,7 +36,6 @@
         "name": "Sreekanth Kolamala",
         "cc_balance": "76.31",
         "delivery_date": "7/16/2022",
-        "last_digits": "1234",
         "due_date": "seventh day of every month",
         "currency": "$"
       }
