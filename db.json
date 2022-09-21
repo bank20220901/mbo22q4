@@ -46,21 +46,21 @@
       "name": "Yong",
       "order_id": "INV-1000",
       "product": "Robotic Vacuum Cleaner",
-      "product_sku": "123456",
+      "product_sku": "123456"
     },
     {
       "id": 2,    
       "name": "Yong",
       "order_id": "INV-1234",
       "product": "Stereo Gaming Headeset",
-      "product_sku": "8723243",
+      "product_sku": "8723243"
     },
     {
       "id": 2,    
       "name": "Yong",
       "order_id": "INV-2328",
       "product": "Computer Mouse",
-      "product_sku": "4223123",
+      "product_sku": "4223123"
     }
   ]
 }
