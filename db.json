@@ -1,109 +1,109 @@
 {
   "accounts": [
-      {
-        "id": 1,
-        "name": "Yong",
-        "order_count": 3,
-        "order_1": "INV-1234",
-        "order_2": "INV-2345",
-        "order_3": "INV-3456"
-      },
-      {
-        "id": 2,    
-        "name": "Candy",
-        "order_count": 2,
-        "order_1": "INV-9234",
-        "order_2": "INV-8345"
-      },
-      {
-        "id": 2,
-        "name": "Jerry",
-        "order_count": 1,
-        "order_1": "INV-7234"
-      }
+    {
+      "id": 1,
+      "name": "Yong",
+      "order_count": 3,
+      "order_1": "INV-1234",
+      "order_2": "INV-2345",
+      "order_3": "INV-3456"
+    },
+    {
+      "id": 2,    
+      "name": "Candy",
+      "order_count": 2,
+      "order_1": "INV-9234",
+      "order_2": "INV-8345"
+    },
+    {
+      "id": 2,
+      "name": "Jerry",
+      "order_count": 1,
+      "order_1": "INV-7234"
+    }
   ],
   "orders": [
     {
       "id":1,
-      "order_id": "INV-1000",
+      "order_id": "INV-1234",
       "product": "Robotic Vacuum Cleaner",
       "product_sku": "123456"
     },
     {
       "id": 2,    
       "name": "Yong",
-      "order_id": "INV-1234",
+      "order_id": "INV-2345",
       "product": "Stereo Gaming Headeset",
       "product_sku": "8723243"
     },
     {
       "id": 3,    
       "name": "Yong",
-      "order_id": "INV-2328",
+      "order_id": "INV-3456",
       "product": "Computer Mouse",
       "product_sku": "4223123"
     },
     {
       "id": 4,    
       "name": "Candy",
-      "order_id": "INV-1100",
+      "order_id": "INV-9234",
       "product": "Robotic Vacuum Cleaner",
       "product_sku": "123456"
     },
     {
       "id": 5,    
       "name": "Candy",
-      "order_id": "INV-1345",
+      "order_id": "INV-8345",
       "product": "Stereo Gaming Headeset",
       "product_sku": "8723243"
     },
     {
       "id": 6,    
       "name": "Jerry",
-      "order_id": "INV-1228",
+      "order_id": "INV-7234",
       "product": "Computer Mouse",
       "product_sku": "4223123"
     }
   ],
   "customers": [
-      {
-        "id": 1,
-        "email": "starlin@acompany.com",
-        "phone": "8613912341234",
-        "name": "Starlin",
-        "cc_balance": "23.13",
-        "due_date": "6/27/2022",
-        "credit_card": 1111,
-        "mortgage": 2222
-      },
-      {
-        "id": 2,
-        "email": "tbodker1@mapquest.com",
-        "phone": "8613923452345",
-        "name": "Tilda",
-        "cc_balance": "321.54",
-        "due_date": "8/26/2022",
-        "credit_card": 7821
-      },
-      {
-        "id": 3,
-        "email": "jaxcel2@ameblo.jp",
-        "phone": "8613934563456",
-        "name": "Julianna",
-        "cc_balance": "81.81",
-        "due_date": "7/16/2022",
-        "mortgage": 3333,
-        "currency": "$"
-      },
-      {
-        "id": 4,
-        "email": "sreekanth.kolamala@vonage.com",
-        "phone": "8613945674567",
-        "name": "Sreekanth Kolamala",
-        "cc_balance": "76.31",
-        "delivery_date": "7/16/2022",
-        "due_date": "seventh day of every month",
-        "currency": "$"
-      }
+    {
+      "id": 1,
+      "email": "starlin@acompany.com",
+      "phone": "8613912341234",
+      "name": "Starlin",
+      "cc_balance": "23.13",
+      "due_date": "6/27/2022",
+      "credit_card": 1111,
+      "mortgage": 2222
+    },
+    {
+      "id": 2,
+      "email": "tbodker1@mapquest.com",
+      "phone": "8613923452345",
+      "name": "Tilda",
+      "cc_balance": "321.54",
+      "due_date": "8/26/2022",
+      "credit_card": 7821
+    },
+    {
+      "id": 3,
+      "email": "jaxcel2@ameblo.jp",
+      "phone": "8613934563456",
+      "name": "Julianna",
+      "cc_balance": "81.81",
+      "due_date": "7/16/2022",
+      "mortgage": 3333,
+      "currency": "$"
+    },
+    {
+      "id": 4,
+      "email": "sreekanth.kolamala@vonage.com",
+      "phone": "8613945674567",
+      "name": "Sreekanth Kolamala",
+      "cc_balance": "76.31",
+      "delivery_date": "7/16/2022",
+      "due_date": "seventh day of every month",
+      "currency": "$"
+    }
   ]
 }
