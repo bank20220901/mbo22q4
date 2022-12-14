@@ -107,7 +107,7 @@
       "currency": "$"
     }
   ],
-  "mbo_orders": [
+  "mbo-orders": [
     {
       "id": 1,
       "phone": "8618964987085",
