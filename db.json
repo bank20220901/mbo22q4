@@ -184,5 +184,43 @@
         }
       ]
     }
+  ],
+  "mbo-order-detail": [
+  {
+    "order-id": "1234",
+    "product": "Monitor",
+    "address": "Dx 1234",
+    "deliver-date": "2022-12-23"
+  },
+  {
+    "order-id": "2345",
+    "product": "Monitor",
+    "address": "Dx 1234",
+    "deliver-date": "2022-12-23"
+  },
+  {
+    "order-id": "3456",
+    "product": "Monitor",
+    "address": "Dx 1234",
+    "deliver-date": "2022-12-23"
+  },
+  {
+    "order-id": "1235",
+    "product": "Monitor",
+    "address": "Dx 1234",
+    "deliver-date": "2022-12-23"
+  },
+  {
+    "order-id": "1236",
+    "product": "Monitor",
+    "address": "Dx 1234",
+    "deliver-date": "2022-12-23"
+  },
+  {
+    "order-id": "1237",
+    "product": "Monitor",
+    "address": "Dx 1234",
+    "deliver-date": "2022-12-23"
+  }
   ]
  }
